@@ -1,0 +1,34 @@
+[
+  {
+    "id": "s001",
+    "title": "AI Career Kickstart Workshop",
+    "topic": "Artificial Intelligence",
+    "date": "2025-04-26",
+    "description": "A beginner-friendly workshop introducing career paths in AI for women.",
+    "location": "Online"
+  },
+  {
+    "id": "s002",
+    "title": "Resume Building for Tech Jobs",
+    "topic": "Career Development",
+    "date": "2025-04-28",
+    "description": "Tips and templates for crafting an industry-ready tech resume.",
+    "location": "HerKey Platform"
+  },
+  {
+    "id": "s003",
+    "title": "Women in Leadership Panel",
+    "topic": "Leadership",
+    "date": "2025-05-01",
+    "description": "A panel discussion with inspiring women leaders from top tech companies.",
+    "location": "Hybrid - Online + Delhi"
+  },
+  {
+    "id": "s004",
+    "title": "1:1 Mentorship with Senior Data Scientists",
+    "topic": "Mentorship",
+    "date": "2025-05-03",
+    "description": "Book a session with experienced data scientists for career guidance.",
+    "location": "HerKey Mentorship Portal"
+  }
+]

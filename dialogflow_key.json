@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ashachatbotvk",
+  "private_key_id": "c298ac0a843d326b66ca068d71559f37824fddbd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvwRyxLd6gWPj1\nHcdw7Hh6GDfL+DMgn8BtOE7EIkucaBay27uYuPOrhouI+HjPTy7rLhuwkOFxEYk8\nTdQ5dY4kiRQxOO0rXp7ZYLZl3KE4PePGomElGbC62i+j50hQF5Fzi2xg87ya6QFr\nCW6nCH/jxz5AP0zJqaU7zkP50P1Q0zMJVVy+AdOKecs2OOasYoy7/Oi9cGhrJQes\nzzBY7LmQZwWOqqDQ77BtQZjUddVD2ET00b9hIVM0YXZnX/SEvJFeYGrpQYi14C6c\ngSwhkgwvw+L8hFkH4jEPr5sjxJDwpKs6Q4b/LvO9is0ZAJBF8SAzStUqAzbd44ia\ns9dCA3jJAgMBAAECggEAD1Ms38wqndu0NZdXpSKRbMAA2YG2X5Fec4eV4qdE5Ynz\n9LuRM4NpB9tO/m4ABr+WTT5zfqVbawMG7uGwcCQudUQYpSQcFgyFmFnE/cPLsP5A\nhrjw9I21ac2NmuKXXRh4/9S36gpGt1E65OzpH5pvoFpmtK5wUSNAO6NELRvKgsoK\nbIGyc2Mooi1fQQ3nqMUvSEYs/xqb/X8JhajGslEVRIi3s447EWYekuWA5lIlib/S\nlQIUymihfBQmwsmWUpZ1I8hqxDxNOon3alGpxxT6K8EZIEOwffMtNFWFdPP8HSHV\n0ty26cpmEfyxmW/cjdWGcWRwGEY+1z5gQtWrRUwsQQKBgQDt5wEL9gqK/V6OymE2\n6e+CrDkB5tfTqOAAGnVKeO5HmrupO31zR/j/6RKbmJ5N7fJVyQkZIfHfzZWrGKIj\ncPcmqTpB6N9K94GhrZv9aZ6YxpfhT0qE6DpL7R9XQJ6V+MEKm3PhROpBDc9vHS6r\nHEWKdF/ug9OM9kQN917Za+h4cQKBgQC9H9CzMwGytUpMuyxYh4YwL9IARWwdUmJ2\nFJEHW4kAqNGKaP8NbmPMC1BwtZRK7f6l6TTHdxjgkM+QfXkRmfO0qKuRPYfIpeDZ\nNkFlP+FL0jY/klrsTvpLbnbUQEOn/yBagIxTV+CUeaBIXNUZQSQaN9Vl+pfnewWp\n74PBm0Px2QKBgQDOuVDbh+0ZYZltEsbu5NDPB8BxupoIvlIHRPZuxC6p4fb3003r\ngrsIBQu6USAeL4nIqWxSfoCjLQ3FIx6hFWRuH9cTtrtxdSkbyLQnvEOoFcmcaz4h\nx3oAyAfX1br4LrPv96z2LuAvr0R1FTKcVXDIIt/JbpvBfa0dRbsRywaywQKBgHYa\nThv5+E9/QtzT7geC6lthIYUl1TQiZHZUtZSgpteQlPoYQ15B13RuhFc+LVL1eJZn\nIZyGVTS3ecdDc714JGZnBmz2vbqhS96ZMRFnaOwOY+4jGUCEuW0tmGtHjnh0q+GY\ncQkC0a4mnd9SiYjx0vfEcjDy4rWdb5YFioP2z+FRAoGAPM1lk2cWnPu7SIRrXtYX\nENi4eCqRjt9+fhlVdv8Koqt4jGQuaphEGuseR1FbrADrkndWtRDK0T154PUDpAVi\niDa7/qpHXawW0Sk4EfUe4U6fRzs5E3xQL77Na2IdJPWFKNbSg1ecHYWtdoefr29v\n04r3Ed15hhzKk7u6SEC2is8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "asha-dialogflow-access@ashachatbotvk.iam.gserviceaccount.com",
+  "client_id": "100035551845305249040",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/asha-dialogflow-access%40ashachatbotvk.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
